@@ -1,0 +1,21 @@
+
+body{
+    font-family: Helvetica, 'Lucida Grande', sans-serif ;
+}
+.titulo{
+    color: #3D3D3D;
+    background-color: #e1edf2;
+   
+}
+.historia{
+    border-bottom-width: 2px;
+    border-style: outset;
+}
+
+img{
+    text-align: center;
+    border: 1px solid lightgray;
+    background-color: whitesmoke;
+    padding: 15px;
+    
+}
